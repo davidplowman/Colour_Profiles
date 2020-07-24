@@ -1,0 +1,33 @@
+{
+  "UniqueCameraModel": "Raspberry Pi High Quality Camera",
+  "ProfileName": "Repro 2_5D no LUT - D65 is really 5960K",
+  "ProfileCopyright": "Copyright Free",
+  "ProfileEmbedPolicy": "No restrictions",
+  "CalibrationIlluminant1": "StdA",
+  "ColorMatrix1": [
+    [  0.675900, -0.237900,  0.075100 ],
+    [ -0.443200,  1.387100,  0.546500 ],
+    [ -0.040100,  0.166400,  0.784500 ]
+  ],
+  "ForwardMatrix1": [
+    [  0.788900,  0.127300,  0.048200 ],
+    [  0.240100,  0.970500, -0.210600 ],
+    [ -0.002600, -0.440600,  1.268300 ]
+  ],
+  "CalibrationIlluminant2": "D65",
+  "ColorMatrix2": [
+    [  0.560300, -0.135100, -0.060000 ],
+    [ -0.287200,  1.118000,  0.213200 ],
+    [  0.060000,  0.045300,  0.582100 ]
+  ],
+  "ForwardMatrix2": [
+    [  0.659100,  0.303400,  0.001800 ],
+    [  0.199100,  1.058500, -0.257500 ],
+    [ -0.049300, -0.091900,  0.966300 ]
+  ],
+  "DefaultBlackRender": "None",
+  "ProfileToneCurve": [
+    [ 0.000000, 0.000000 ],
+    [ 1.000000, 1.000000 ]
+  ]
+}
